@@ -1,0 +1,27 @@
+.app {
+  text-align: center;
+}
+
+.container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.next {
+  align-items: center;
+  background-color: #036b52;
+  border: 1px solid white;
+  border-radius: 7px;
+  display: flex;
+  height: 50px;
+  justify-content: center;
+  margin-top: 10px;
+  width: 100px
+}
+
+.btn-next {
+  color: white;
+  text-decoration: none;
+}
